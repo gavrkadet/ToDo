@@ -1,0 +1,8 @@
+#currentTask {
+    width: 200px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    padding: 3px;
+    resize: horizontal;
+}

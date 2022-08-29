@@ -1,0 +1,61 @@
+#listCurrentTask {
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    background-color: antiquewhite;
+    max-width: 500px;
+    margin: 8px 8px 8px 8px;
+    display: flex;
+    border: none;
+    outline: none;
+    font-size: 17px;
+}
+
+#addNewTask {
+    display: inline;
+    max-width: 500px;
+    max-height: 500px;
+}
+
+#divForButton {
+    max-width: 500px;
+    max-height: 500px;
+}
+
+#divForInput {
+    max-width: 500px;
+    max-height: 500px;
+
+}
+
+#buttonAddNewTask {
+    width: 100%;
+}
+
+#inputAddNewTask {
+    width: 100%;
+    margin: 2px 2px 2px 2px;
+}
+
+#findTask {
+    width: 100%;
+    margin: 2px 2px 2px 2px;
+}
+
+#textareaForEditTasks {
+    padding: 8px 8px 8px 8px;
+    resize: none;
+    height: auto;
+    width: auto;
+}
+
+#divForCheckBox {
+    cursor: pointer;
+}
+#spanCurrentTask {
+    cursor: pointer;
+}
+
+#deleteInput {
+    height: 14px;
+    width: 14px;
+}
